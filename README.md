@@ -15,7 +15,7 @@ Cấu trúc gồm:
 
 - Seed.txt: Mã seed ngẫu nhiên, tạo từ thời gian thực, không thể đoán trước.
 
-- Script_quay_thuong.js: Mã nguồn chọn người thắng từ seed.
+- Script.js: Mã nguồn chọn người thắng từ seed.
 
 Tất cả file commit kèm timestamp để lưu vết và chống chỉnh sửa. 
 

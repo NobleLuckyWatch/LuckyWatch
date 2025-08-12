@@ -13,7 +13,7 @@ Cấu trúc gồm:
 
 - Participants.csv: Danh sách người tham gia (ẩn 4 số cuối SĐT).
 
-- Seed.txt: Mã seed ngẫu nhiên, tạo từ thời gian thực, không thể đoán trước.
+- Seed.txt: Mã seed ngẫu nhiên, tạo từ thời gian thực ghép với mã guid bất kỳ, không thể đoán trước.
 
 - Script.js: Mã nguồn chọn người thắng từ seed.
 

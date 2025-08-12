@@ -27,6 +27,6 @@ Quy tắc này đảm bảo: nếu chạy lại script với cùng danh sách v�
 
 Sau quay, winner.txt được commit, cho phép mọi người tải lại dữ liệu, chạy script và xác nhận kết quả trùng khớp 100%. 
 
-Tất cả được niêm yết công khai trên GitHub.
+Tất cả được niêm yết công khai trên GitHub: https://github.com/NobleLuckyWatch/LuckyWatch
 
 Hãy cùng chờ đón Noble Lucky Watch - Phát sóng định kỳ vào tối thứ 3 và thứ 6 hàng tuần
